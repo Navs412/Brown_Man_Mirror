@@ -1,0 +1,2 @@
+# MyMirror
+Magic mirror start
